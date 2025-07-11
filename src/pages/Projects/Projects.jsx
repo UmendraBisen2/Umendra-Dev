@@ -5,44 +5,44 @@ import PropTypes from "prop-types";
 
 const projects = [
   {
-    title: "Olova! A Lightweight JavaScript Library",
+    title: "School Management System.",
     description:
-      "A lightweight JavaScript library for creating beautiful, responsive UI components.",
+      "   🌐 School Management System is to develop a modern, responsive, and scalable web application that automates and manages various academic and administrative operations of a school.this system aims to deliver a real-time, efficient, and user-friendly platform for administrators, teachers, students.",
     src: "rock.jpg",
-    link: "https://i.postimg.cc/DwgWTfP0/Annotation-2025-03-19-113338.png",
+    link: "https://github.com/UmendraBisen2/portphoto/blob/main/sms.png",
     color: "#5196fd",
-    githubLink: "https://github.com/olovajs/olova",
-    liveLink: "https://olova.js.org/",
+    githubLink: "https://github.com/UmendraBisen2/MERN-School-Management-System.",
+    liveLink: "https://realschoolmanagementsystem.netlify.app/",
   },
   {
-    title: "A sleek portfolio built with React and Tailwind CSS ",
+    title: "Book Store ",
     description:
-      "A sleek portfolio built with React and Tailwind CSS to showcase your skills, projects, and experience in a modern design.",
+      "Organizes books by genre, author, title, or publisher, bookstore management system with features like real-time tracking, Add, update and delete books .Store details of book suppliers and Book Detail . ",
     src: "tree.jpg",
-    link: "https://i.postimg.cc/J75CKyrs/Annotation-2025-04-01-203959.png",
+    link: "https://github.com/UmendraBisen2/portphoto/blob/main/book.png",
     color: "#8f89ff",
-    githubLink: "https://github.com/seraprogrammer/portfolio",
-    liveLink: "https://codervai.vercel.app",
+    githubLink: "https://github.com/UmendraBisen2/MERN-BOOK-STORE",
+    liveLink: "https://book-store-f-eight.vercel.app/",
   },
   {
-    title: "🚀 CodeWhisperer",
+    title: "🚀Restaurant ",
     description:
-      "🚀 CodeWhisperer A powerful online code editor built with React and Tailwind CSS. Featuring real-time code execution, syntax highlighting, multi-language support, and a sleek UI. Start coding instantly! 💻✨",
+      "🚀  Restaurant Management System that streamlines the restaurant’s operations by automating order processing, table reservations, menu management,and customer feedback.💻✨",
     src: "water.jpg",
-    link: "https://i.postimg.cc/J4jPVFY0/Annotation-2025-04-01-204723.png",
+    link: "https://github.com/UmendraBisen2/portphoto/blob/main/res.png",
     color: "#fff",
-    githubLink: "https://github.com/seraprogrammer/codewhisperer",
-    liveLink: "https://codewhisperer.vercel.app/",
+    githubLink: "https://github.com/UmendraBisen2/Restaurant-f",
+    liveLink: "https://restaurant-f.vercel.app/",
   },
   {
-    title: "CodeKori 🔥",
+    title: "Weather App 🔥",
     description:
-      "CodeKori is a powerful online code editor built with React and Tailwind CSS. Featuring real-time code execution, syntax highlighting, multi-language support, and a sleek UI. Start coding instantly! 💻✨",
+      " Convert Temperatures with Ease | Your Temperature Converter App Switch Between Celsius, Fahrenheit, and More|Instant Temperature Solutions Make Weather Conversions a Breeze .🌐",
     src: "house.jpg",
-    link: "https://i.postimg.cc/cHQr4fpR/Annotation-2025-04-01-205350.png",
+    link: "https://github.com/UmendraBisen2/portphoto/blob/main/weather.png",
     color: "#ed649e",
-    githubLink: "https://github.com/seraprogrammer/CodeKori",
-    liveLink: "https://codekori.js.org",
+    githubLink: "https://github.com/UmendraBisen2/Weather-Project",
+    liveLink: "https://weather-project-omega-swart.vercel.app/",
   },
 ];
 
