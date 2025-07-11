@@ -15,22 +15,32 @@ const EducationSection = () => {
 
   const educationData = [
     {
-      degree: "Secondary School Certificate (SSC)",
-      school: "Natore Textile Institute",
+      degree: " Bachelor of Technology in Electrical Engineering (B.Tech)",
+      school: " Priyadarshini College of Engineering , Nagpur",
       mascot: "📘",
       year: "2019-2021",
-      achievements: ["GPA: 4.89", "Subject: Science"],
-      skills: ["Mathematics", "Physics", "Chemistry", "Biology"],
+      achievements: ["Grade: A"],
+  
       description:
         "Focused on core science subjects with emphasis on practical laboratory work and scientific research methodologies.",
     },
     {
       degree: "Higher Secondary Certificate (HSC)",
-      school: "Dottopara Model Degree College",
+      school: " Kurvey’s New Model High School and Junior Colleg",
       mascot: "📗",
-      year: "2021-2023",
-      achievements: ["GPA: 4.25", "Subject: Arts"],
-      skills: ["Literature", "Social Studies", "Economics", "History"],
+      year: "2020-2022",
+       achievements: ["Grade: A"],
+   
+      description:
+        "Developed strong analytical and critical thinking skills through comprehensive study of humanities and social sciences.",
+    },
+     {
+      degree: "Secondary School Certifiate (SSC)",
+      school: "Kurvey’s New Model High School ",
+      mascot: "📗",
+      year: "2019-2020",
+        achievements: ["Grade: A"],
+    
       description:
         "Developed strong analytical and critical thinking skills through comprehensive study of humanities and social sciences.",
     },
@@ -161,3 +171,4 @@ const EducationSection = () => {
 };
 
 export default EducationSection;
+//hello klnl
